@@ -3,8 +3,7 @@
   }
 
 html { 
-  background-image: url(JSimage.png) no-repeat center fixed; 
-  opacity:0.3;
+  background-image: url(/JSimage.png); 
   background-position: center;
 }
 
